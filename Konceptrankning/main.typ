@@ -62,6 +62,7 @@ Någon timme efter Paulina har vaknat, innan hon åker till jobbet, får hon en 
 
 === David
 #image("Wireflow - logging.png")
+\+ *"Visa inte för många val på en gång" (s.143):*
 
 
 // Samuel, Andreas, Daniel
