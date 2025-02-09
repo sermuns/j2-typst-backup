@@ -71,11 +71,11 @@ Paulina har upplevt flera migränanfall den senaste tiden. Hemma på fredag kvä
 
 === Daniel
 #image("media/wireframe2.png")
-\- *"Visa vad som hör ihop (s.139):"* 
+\+ *"Visa vad som hör ihop (s.140):"* Knappen är ganska stor och leder direkt till olika statistik och visar hur det hänger ihop.
 
-\- *"Gör det begripligt och bekant (s.128-130)":* 
+\- *"Gör det begripligt och bekant (s.128-130)":* Skärmen känns enkelt att navigera i och mycket av information hanteras av själva appen istället för användaren.
 
-\- *"Visa inte för många val på en gång (s.143):"* 
+\+ *"Visa inte för många val på en gång (s.143):"* Knappar leder till olika typer av skärm men är ganska få och känns simpelt.
 
 
 // #colbreak()
