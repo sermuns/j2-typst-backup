@@ -93,8 +93,13 @@ Paulina har upplevt flera migränanfall den senaste tiden. Hemma på fredag kvä
 // Trender i grafer (vändpunkter) visualiseras
 // Tydliga relationer mellan trender och potentiella orsaker (analyzer)
 
-
 \- *"Visa inte för många val på en gång" (s.143):* Systemet har många val på samma sida - bland annat val av tidsperiod och vilken kategori som ska visas. För en användare som inte vet vad den letar efter, kanske det upplevs överväldigande.
+
+\+ *"Tving inte folk att hålla för mycket i huvudet (s.140)":* Gränssnittets design, även om många val (tidigare punkt), avlastar användaren genom en god struktur på innehållet och en röd tråd för enkel navigation som är förståelig (exempelvis: statistics -> stress -> analyze -> tips). Då systemet leder användaren genom de olika stegen, slipper användaren ha så mycket i huvudet.
+
+\+ *"Gör det begripligt och bekant" (s.128):* Gränssnittets olika element är igenkännbara med standardiserad graf och vanligt förekommande knappar. Det gör att användaren känner sig bekant med systemet utifrån tidigare erfarenheter med andra gränssnitt, därav "begripligt och bekant". Röda tråden bidrar även här. 
+
+#pagebreak()
 
 === Samuel
 #image("media/wireframe_samuel_mönster.jpg")
