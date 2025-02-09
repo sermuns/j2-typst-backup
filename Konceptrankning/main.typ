@@ -63,6 +63,12 @@ Någon timme efter Paulina har vaknat, innan hon åker till jobbet, får hon en 
 === David
 #image("Wireflow - logging.png")
 \+ *"Visa inte för många val på en gång" (s.143):*
+Systemet förhåller sig till principen genom att inte överväldiga användaren med en stor mängd frågor och alternativ. Istället minimalistiska notiser som endast innehåller en fråga. Därmed behöver användaren inte tänka på vilken fråga som ska besvaras när, och sparar tid.
+
+\+  *"Bjud in till handling" (s.126):* 
+De inbjudande och tydliga interaktiva elementen i gränssnittet är självförklarande och enkla för användaren att använda. Detta tillsammans med hur snabbt det går att svara på en enskild fråga bjuder in till handling, och bör minimera antalet ignorerade/uppskjutna frågor.
+
+*Inget konkret minus.*
 
 
 // Samuel, Andreas, Daniel
@@ -86,6 +92,9 @@ Paulina har upplevt flera migränanfall den senaste tiden. Hemma på fredag kvä
 // Röd tråd - blir "hänvisad" till nästkommande steg i processen
 // Trender i grafer (vändpunkter) visualiseras
 // Tydliga relationer mellan trender och potentiella orsaker (analyzer)
+
+
+\- *"Visa inte för många val på en gång" (s.143):* Systemet har många val på samma sida - bland annat val av tidsperiod och vilken kategori som ska visas. För en användare som inte vet vad den letar efter, kanske det upplevs överväldigande.
 
 === Samuel
 #image("media/wireframe_samuel_mönster.jpg")
