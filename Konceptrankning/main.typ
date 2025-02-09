@@ -52,9 +52,13 @@ Någon timme efter Paulina har vaknat, innan hon åker till jobbet, får hon en 
 
 === Daniel
 #image("media/wireframe.png")
-// Fokusera, distrahera inte
-// Bjud in till handling
-// Tvinga inte folk att hålla för mycket i huvudet
+\+ *"Fokusera, distrahera inte (s.139):"* Startskärmen fokuserar på dem mest relevanta för appen, Mindre knappar låter användaren fokusera på den som är viktigast.
+
+\+ *"Bjud in till handling (s.142):"* Skissen är ganska straight-forward när det gäller hur hantering av knappar som leder till olika skärm.
+
+\- *"Tvinga inte folk att hålla för mycket i huvudet (s.140):"* Mycket information tas upp på den sista skärmen och kan vara för mycket att tänka på för användaren.
+
+
 
 === David
 #image("Wireflow - logging.png")
@@ -67,9 +71,12 @@ Paulina har upplevt flera migränanfall den senaste tiden. Hemma på fredag kvä
 
 === Daniel
 #image("media/wireframe2.png")
-// Visa vad som hör ihop
-// Gör det begripligt och bekant.
-// Visa inte för många val på en gång
+\- *"Visa vad som hör ihop (s.139):"* 
+
+\- *"Gör det begripligt och bekant (s.128-130)":* 
+
+\- *"Visa inte för många val på en gång (s.143):"* 
+
 
 // #colbreak()
 === David
