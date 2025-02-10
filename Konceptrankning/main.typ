@@ -118,11 +118,35 @@ Paulina har upplevt flera migränanfall den senaste tiden. Hemma på fredag kvä
 === Andreas
 #image("20250207-140903-2.jpg")
 
-\+ Gör det begripligt och: Motsvarar något i användarens begreppsvärld (Logg, statistik) sida 128. Kort och beskrivande ord
+\+ Gör det begripligt och bekant: Motsvarar något i användarens begreppsvärld (Logg, statistik) sida 128. Kort och beskrivande ord
 
 \- fokusera distrahera inte. Sida 139 Många olika diagram som kan förvirra läsaren.
 
 \+ Visa inte för många val på en gång. Sida 143 Få valmöjligheter för användare
+
+=== David vs. Samuel
+
+- Blir för formellt att behöva ställa in FÖRST. Bättre att först visa graf, sen justera.
+
+- Bra med fasta intervall 1v, 2v, 1mån, etc.
+
+- Bra med automatiskt analys
+
+=== David+Samuel vs Andreas
+
+- Kan vara bra med skrolla, få översikt över många faktorer
+  - Kan vara överväldigande, men kan införa filter / favorisera värden. 
+
+
+
+
+=== Totalt
+
+- Vill kunna se grafer överlappande
+
+- Sortera grafer efter.. (sämst utveckling, mest volatilt)
+
+- Kan analysera varje värde
 
 // Samuel, Andreas
 #pagebreak()
@@ -136,16 +160,24 @@ Paulina vill skapa en egenremiss för att få hjälp med sina kraftiga besvär m
 \+ *"Gör det begripligt och bekant" (s.128):* Ger användaren en god översikt över deras information så som journal och loggar för att sedan kunna sammanställa och ta sig vidare med informationen.
 
 \- *"Tvinga inte folk att hålla för mycket i huvudet" (s.140):* Denna typen av interaktion med applikationen kräver mer information och större belastning på användarens arbetsminneskapacitet då mer information måste sammanställas på egen hand.
-n.
+
+=== Andreas
 
 #image("20250207-141754-4.jpg")
 
 \+ stöd beteende förändring. sida 133
-Användaren få möjlighet att få tips från doktorn för att kunna ändra sitt beteende
+Användaren får enkel möjlighet att få tips från doktorn för att kunna ändra sitt beteende
 
 \+ Gör det begripligt och bekant sida 128. Skärmen lika vid alla tillfällen, korta beskrivande ord
 
-\- Gör träffytor tillräckligt stora. Sida ??? Många olika knappar på samma sida ger att knapparna blir mindre.
+\- Gör träffytor tillräckligt stora. Sida ??? Många olika knappar på samma sida samt stora textrutor ger mindre knappar.
+
+=== Sebbe+Andreas
+
+\- Saknar möjlighet att själv välja specifik tid för telefonsamtal.
+
+- Lägg till funktion för att se utskrivna recept.
+- Funktion för
 
 #colbreak()
 === Samuel
