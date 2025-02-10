@@ -49,6 +49,9 @@ Någon timme efter Paulina har vaknat, innan hon åker till jobbet, får hon en 
 
 === Sebbe
 #image("media/wireframescenario1.jpg")
+\+ *"Bjud in till handling" (s.126):* Regelbundna interaktiva notiser gör det enkelt och inbjudande för användaren att interagera med appen.
+\+ *"Tvinga inte folk att hålla för mycket i huvudet" (s.140):* Lättare att övergå från krävande processer till automatiska rutiner då loggandet till störst del utförs i korta uppdelningar med små enkla svar vilket kräver mindre arbetsminne.
+
 
 === Daniel
 #image("media/wireframe.png")
