@@ -56,9 +56,9 @@ Någon timme efter Paulina har vaknat, innan hon åker till jobbet, får hon en 
 
 === Daniel
 #image("media/wireframe.png")
-\+ *"Fokusera, distrahera inte (s.139):"* Startskärmen fokuserar på dem mest relevanta för appen, Mindre knappar låter användaren fokusera på den som är viktigast.
+\+ *"Fokusera, distrahera inte (s.139):"* Startskärmen fokuserar på dem mest relevanta för appen, Mindre knappar låter användaren fokusera på det som är viktigast.
 
-\+ *"Bjud in till handling (s.142):"* Skissen är ganska straight-forward när det gäller hur hantering av knappar som leder till olika skärm.
+\+ *"Bjud in till handling (s.126):"* Skissen är ganska straight-forward när det gäller hur hantering av knappar som leder till olika skärm.
 
 \- *"Tvinga inte folk att hålla för mycket i huvudet (s.140):"* Mycket information tas upp på den sista skärmen och kan vara för mycket att tänka på för användaren.
 
@@ -74,6 +74,9 @@ De inbjudande och tydliga interaktiva elementen i gränssnittet är självförkl
 
 *Inget konkret minus.*
 
+#colbreak()
+=== David + Sebbe
+- Bra att kunna se alla frågor i slutet, men tidigare besvarade ska vara dolda
 
 // Samuel, Andreas, Daniel
 #pagebreak()
@@ -112,6 +115,14 @@ Paulina har upplevt flera migränanfall den senaste tiden. Hemma på fredag kvä
 
 \- *Tvinga inte folk att hålla för mycket i huvudet (s.140):* Skärmen där statistik visas, när man ser alla grafer samtidigt, är ganska överstimulerande, och om man ska upptäcka mönster mellan data behöver man kanske hålla det i arbetsminnet eftersom graferna inte överlappar.
 
+=== Andreas
+#image("20250207-140903-2.jpg")
+
+\+ Gör det begripligt och: Motsvarar något i användarens begreppsvärld (Logg, statistik) sida 128. Kort och beskrivande ord
+
+\- fokusera distrahera inte. Sida 139 Många olika diagram som kan förvirra läsaren.
+
+\+ Visa inte för många val på en gång. Sida 143 Få valmöjligheter för användare
 
 // Samuel, Andreas
 #pagebreak()
@@ -125,22 +136,16 @@ Paulina vill skapa en egenremiss för att få hjälp med sina kraftiga besvär m
 \+ *"Gör det begripligt och bekant" (s.128):* Ger användaren en god översikt över deras information så som journal och loggar för att sedan kunna sammanställa och ta sig vidare med informationen.
 
 \- *"Tvinga inte folk att hålla för mycket i huvudet" (s.140):* Denna typen av interaktion med applikationen kräver mer information och större belastning på användarens arbetsminneskapacitet då mer information måste sammanställas på egen hand.
-=== Andreas
-#image("20250207-140903-2.jpg")
-
-\+ Gör det begripligt och: Motsvarar något i användarens begreppsvärld (Logg, statistik) sida 128
-
-\- fokusera distrahera inte. Sida 139 
-
-\+ Visa inte för många val på en gång. Sida 143
+n.
 
 #image("20250207-141754-4.jpg")
 
 \+ stöd beteende förändring. sida 133
+Användaren få möjlighet att få tips från doktorn för att kunna ändra sitt beteende
 
-\+ Gör det begripligt och bekant sida 128
+\+ Gör det begripligt och bekant sida 128. Skärmen lika vid alla tillfällen, korta beskrivande ord
 
-\- Gör träffytor tillräckligt stora. Sida ???
+\- Gör träffytor tillräckligt stora. Sida ??? Många olika knappar på samma sida ger att knapparna blir mindre.
 
 #colbreak()
 === Samuel
