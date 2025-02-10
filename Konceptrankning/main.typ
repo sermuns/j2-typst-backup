@@ -76,7 +76,13 @@ De inbjudande och tydliga interaktiva elementen i gränssnittet är självförkl
 
 #colbreak()
 === David + Sebbe
-- Bra att kunna se alla frågor i slutet, men tidigare besvarade ska vara dolda
+\+ Tydliga, enkla notiser som kan besvaras direkt
+
+\+ Möjlighet att förskjuta svar
+
+\- Notis bör automatiskt försvinna om notis avvisas (är "answer later" nödvändig att ha kvar?)
+
+- Besvarade frågor ska gå att se och korrigera i den slutgiltiga dagsloggen men inte visas i kronologisk ordning (dvs att obesvarade ska visas först). Potentiellt en drop-down meny. Fördel: kan ändra tidigare besvarade frågor.
 
 // Samuel, Andreas, Daniel
 #pagebreak()
@@ -118,11 +124,11 @@ Paulina har upplevt flera migränanfall den senaste tiden. Hemma på fredag kvä
 === Andreas
 #image("20250207-140903-2.jpg")
 
-\+ Gör det begripligt och bekant: Motsvarar något i användarens begreppsvärld (Logg, statistik) sida 128. Kort och beskrivande ord
+\+ *"Gör det begripligt och bekant" (s.128):* Kort och beskrivande ord
 
-\- fokusera distrahera inte. Sida 139 Många olika diagram som kan förvirra läsaren.
+\- *"fokusera distrahera inte" (s.139):* Många olika diagram som kan förvirra läsaren.
 
-\+ Visa inte för många val på en gång. Sida 143 Få valmöjligheter för användare
+\+ *"Visa inte för många val på en gång" s.143:* Få valmöjligheter för användare
 
 === David vs. Samuel
 
@@ -165,19 +171,25 @@ Paulina vill skapa en egenremiss för att få hjälp med sina kraftiga besvär m
 
 #image("20250207-141754-4.jpg")
 
-\+ stöd beteende förändring. sida 133
-Användaren får enkel möjlighet att få tips från doktorn för att kunna ändra sitt beteende
+\+ *"stöd beteende förändring" (s.133):*
+ Användaren får enkel möjlighet att få tips från doktorn för att kunna ändra sitt beteende
 
-\+ Gör det begripligt och bekant sida 128. Skärmen lika vid alla tillfällen, korta beskrivande ord
+\+ *"Gör det begripligt och bekant" (s.128):* Skärmen lika vid alla tillfällen, korta beskrivande ord
 
-\- Gör träffytor tillräckligt stora. Sida ??? Många olika knappar på samma sida samt stora textrutor ger mindre knappar.
+\- *"Gör träffytor tillräckligt stora" (S.142):* Många olika knappar på samma sida samt stora textrutor ger mindre knappar.
 
 === Sebbe+Andreas
 
 \- Saknar möjlighet att själv välja specifik tid för telefonsamtal.
 
+\+ Tydligt och enkelt. Bra att ha journal centraliserat, behöver inte boka genom telefon.
+
+\+ Bra med möjlighet till fritext.
+
+\+ Bra att kunna söka hjälp oavsett situation.
+
 - Lägg till funktion för att se utskrivna recept.
-- Funktion för
+- Funktion för att kunna välja telefontid.
 
 #colbreak()
 === Samuel
@@ -189,3 +201,32 @@ Användaren får enkel möjlighet att få tips från doktorn för att kunna änd
 \+ *"Visa inte för många val på en gång:"* Huvudskärmen är simplistisk. Endast fyra alternativ.
 
 \- *"Bjud in till handling:"* Skärmarna är något "tråkiga" och för simpla. Hade det integrerats mer visuella hjälpmedel att styra fokus och beteende hade et känts mer interaktivt.
+
+=== Sebbe+Andreas vs Samuel
+- 
+
+=== Totalt
+- Kan vara bra med notis som påminner om möte.
+- Bra med ikoner, men behöver också text  
+  - Squircles
+
+#pagebreak()
+
+= Uppdaterade wireflow-ritningar:
+
+=== Loggning:
+
+#image("Wireflow - combined ideas - logging.png")
+
+- Uppdaterad "Remaining questions skärm" (sista skärmen) med en knapp för tidigare besvarade frågor - ger möjlighet att se och korrigera svaren.
+
+=== Hitta mönster:
+
+#image("Wireflow - combined ideas - find patterns.png")
+
+- Filtermeny tillagd i "Statistics"-skärmen. Möjlighet att filtrera efter kategorier, och visa upp grafer på två sätt; lagda över varandra (med compare-knapp) eller se dem listade efter varandra (med show knapp). Illustrerat i övre högra hörnet
+
+=== Få feedback och/eller återkoppling:
+
+
+- 
