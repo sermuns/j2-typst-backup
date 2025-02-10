@@ -50,6 +50,7 @@ Någon timme efter Paulina har vaknat, innan hon åker till jobbet, får hon en 
 === Sebbe
 #image("media/wireframescenario1.jpg")
 \+ *"Bjud in till handling" (s.126):* Regelbundna interaktiva notiser gör det enkelt och inbjudande för användaren att interagera med appen.
+
 \+ *"Tvinga inte folk att hålla för mycket i huvudet" (s.140):* Lättare att övergå från krävande processer till automatiska rutiner då loggandet till störst del utförs i korta uppdelningar med små enkla svar vilket kräver mindre arbetsminne.
 
 
@@ -119,7 +120,11 @@ Paulina vill skapa en egenremiss för att få hjälp med sina kraftiga besvär m
 
 === Sebbe
 #image("media/wireframescenario3.jpg")
+\+ *"Stötta utförande och utvärdering" (s.130)*: Ger enkel synlighet och förståelse för användaren av vilka verktyg för att få feed-forward som finns tillgängliga i applikationen.
 
+\+ *"Gör det begripligt och bekant" (s.128):* Ger användaren en god översikt över deras information så som journal och loggar för att sedan kunna sammanställa och ta sig vidare med informationen.
+
+\- *"Tvinga inte folk att hålla för mycket i huvudet" (s.140):* Denna typen av interaktion med applikationen kräver mer information och större belastning på användarens arbetsminneskapacitet då mer information måste sammanställas på egen hand.
 === Andreas
 #image("20250207-140903-2.jpg")
 
