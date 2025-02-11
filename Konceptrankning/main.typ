@@ -1,9 +1,51 @@
-#let plus(it) = {
-  set list(marker: $+$) 
-  it
-}
+#let version = "0.1"
+#let date = "2025-02-12"
+
 #import "_defaults.typ": *
 #show: style
+
+#{ // titelsida
+    set page(header: none, footer: none, columns: 1)
+    show table: align.with(center)
+    show grid: align.with(center)
+    
+    v(1fr)
+    
+    line(length: 100%)
+    grid(
+      columns: (8em,)*3,
+      gutter: 2em, 
+      align: center,
+      grid.cell(colspan:3, text(3em)[*TDDD60 Uppgift 1*]),
+      [Version #version], [*Grupp J2*], date,
+    )
+    line(length: 100%)
+    
+    v(1fr)
+
+    [*Medlemmar*]
+    table(
+      columns: 2,
+      inset: .5em,
+      [Samuel Åkesson], [samak519],
+      [],[],
+      [],[],
+      [],[],
+      [],[],
+    )
+    
+    v(1fr)
+
+    [
+      *Sammanfattning av uppdrag*
+
+      Uppdraget var att designa ett system som underlättar för personer som lider av migrän. Genom olika kreativa övningar togs ett slutlig design fram.
+    ]
+    
+    
+    pagebreak()
+  }
+
 
 #include "koncept.typ"
 
@@ -228,5 +270,7 @@ Paulina vill skapa en egenremiss för att få hjälp med sina kraftiga besvär m
 
 === Få feedback och/eller återkoppling:
 
+
+#image("Feedback.jpg")
 
 - 

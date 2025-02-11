@@ -1,10 +1,11 @@
 #let style(body) = {
   set page(
-    margin: 3em,
+    margin: 4em,
     columns: 2,
     numbering: "1 / 1",
   )
   set text(
+    size: 12pt,
     lang: "sv",
     font: "New Computer Modern Sans"
   )
