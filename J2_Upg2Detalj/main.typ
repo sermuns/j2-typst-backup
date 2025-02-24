@@ -59,7 +59,7 @@
 == Loggning
 - Du får en notis med uppmaning att svara på en fråga. Du svarar på denna fråga, och får ytterligare en fråga som du svarar på. Till sist hamnar du på dagsloggen och skickar in.
 *Daniel: Notiser*
-**
+*Sebbe: slutlog, answer here*
 
 == Statistik
 - Du vill hitta orsaker till varför din stress har förvärrats på sistone. Du vill också hitta NÄR vändpunkten inträffade.
@@ -71,3 +71,4 @@
 
 == Skapa ärende
 - Du vill att en läkare utreder din situation, och önskar att få telefontid bokad kl08 på onsdag. Efter det vill du kolla i din journal.
+*Andreas: Skapa ärende, se journal*
