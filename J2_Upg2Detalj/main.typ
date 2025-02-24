@@ -1,5 +1,3 @@
-#image("TDDD60 - Gränssnittsflöde - loggning - slutgiltig version.png")
-#image("TDDD60 - Gränssnittsflöde - loggning - slutgiltig version.png")
 #let date = "2025-02-13"
 #let btn = box.with(radius: 5pt, stroke: black, inset: 3pt)
 
@@ -60,10 +58,16 @@
 
 == Loggning
 - Du får en notis med uppmaning att svara på en fråga. Du svarar på denna fråga, och får ytterligare en fråga som du svarar på. Till sist hamnar du på dagsloggen och skickar in.
-
+*Daniel: Notiser*
+**
 
 == Statistik
 - Du vill hitta orsaker till varför din stress har förvärrats på sistone. Du vill också hitta NÄR vändpunkten inträffade.
+*David: Filtervy, ändra grafer*
+
+*Samuel: Analyze*
+
+*Gemensamt: Första statistik-skärmen*
 
 == Skapa ärende
-- Du vill att en läkare utreder din situation, och önskar att få telefontid bokad kl08 på onsdag.
+- Du vill att en läkare utreder din situation, och önskar att få telefontid bokad kl08 på onsdag. Efter det vill du kolla i din journal.
